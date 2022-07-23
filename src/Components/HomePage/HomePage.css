@@ -1,0 +1,13 @@
+.listComponent{
+    display: flex;
+    flex-direction: row;
+    position: absolute;
+    width: 1139px;
+    height: 923px;
+    left: 310px;
+    top: -11px;
+    margin: 20px;
+    background: #FEFEFE;
+    border: 1.5px solid #F0F0F0;
+
+}
